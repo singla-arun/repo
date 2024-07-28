@@ -5,3 +5,4 @@ feature 1
 feature 2
 branch2created
 TryingPUll rquest
+merging local branch 1-> local master -> push to origin (pull request should close)
